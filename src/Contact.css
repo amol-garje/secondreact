@@ -1,0 +1,47 @@
+
+.im{
+    
+    height: 330px;
+    width: 300px;
+    position: relative;
+    top: -200px;
+    right: 80px;
+    opacity: 0.3;
+    
+}
+Header{
+    height: 200px;
+    right: 200px;
+}
+.di{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-self: center;
+
+}
+input{
+    font-style: unset;
+    width: 713px;
+    height: 30px;
+    text-align: center;
+}
+legend{
+    color: red;
+    
+}
+td{
+    color: black;
+}
+
+textarea{
+    text-align: center;
+}
+#submit{
+    width: 730px;
+}
+fieldset{
+    position: relative;
+    left: 150px;
+    background-color: rgb(107, 189, 168);
+}

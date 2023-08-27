@@ -1,0 +1,27 @@
+/* *{
+    border: 1px solid red;
+} */
+.animate__bounceInRight{
+   text-align: left;
+   color: rgb(12, 12, 11);
+   margin-left: 150px;
+   height: 240px;
+   width: 540px;
+   padding: 112px;
+   border: 4px solid red;
+   border-top-right-radius: 24px;
+   border-bottom-left-radius: 24px;
+   background-color: antiquewhite;
+   filter: brightness(80%);
+   color: rgb(11, 12, 11);
+} 
+
+.fa-brands{
+    background-color: black;
+}
+.animate__flash{
+    animation-delay: 2s;
+}
+.animate__backInDown{
+   animation-delay: 1s;
+}
